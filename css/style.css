@@ -1,6 +1,9 @@
 div h3 {
     text-align: center;
 }
+div span.glyphicon.glyphicon-info-sign {
+	font-size: 18px;
+}
 div.box {
     border: 1px solid grey;
     box-shadow: 0 0px 10px 2px grey;
